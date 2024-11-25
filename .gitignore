@@ -1,0 +1,38 @@
+# Rust
+/target/
+**/target/
+Cargo.lock
+*.rs.bk
+
+# Prisma
+**/prisma.rs
+*.db
+*.db-journal
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Environment
+.env
+.env.*
+
+# Debug
+*.log 
+
+.cursorrules
